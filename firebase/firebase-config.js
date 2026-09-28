@@ -25,7 +25,7 @@ import {
 // ============================================================
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDShAm9Nnj7sodlfzQFZ727pc9WhU-fc",
+  apiKey: "AIzaSyDShAm9FNnIj7sodlfzQFZ727pc9WhU-fc",
   authDomain: "corebic--inspirego.firebaseapp.com",
   projectId: "corebic--inspirego",
   storageBucket: "corebic--inspirego.firebasestorage.app",
